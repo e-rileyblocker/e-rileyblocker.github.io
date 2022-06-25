@@ -28,11 +28,10 @@ domain: e-rileyblocker.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://e-rileyblocker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  e-rileyblocker
+github_username:  jekyll
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -55,7 +54,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# need to add time zone so that commits are reflected quicker on remote server. 
-future: true
-#timezone: America/New_York
