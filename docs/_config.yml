@@ -57,4 +57,5 @@ plugins:
 #   - vendor/ruby/
 
 # need to add time zone so that commits are reflected quicker on remote server. 
-timezone: America/New_York
+future: true
+#timezone: America/New_York
