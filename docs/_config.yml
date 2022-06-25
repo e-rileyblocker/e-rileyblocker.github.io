@@ -55,3 +55,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# need to add time zone so that commits are reflected quicker on remote server. 
+timezone: America/New_York
